@@ -20,9 +20,9 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 
 2. Pre-processing the scraped data along with keywords provided and then calculating frequency i.e. finding most searched.
 3. **Implementing S Bert model leading to :**
-a) Semantic Search (eg. insurance -> vehicle).
+     a) Semantic Search (eg. insurance -> vehicle).
 
-b) Paraphrase Mining (i.e. Text with identical/similar meaning).
+     b) Paraphrase Mining (i.e. Text with identical/similar meaning).
 
-c) Writing Search function -> Analyzing Query Vector ->Fetch into top k_ids.
+     c) Writing Search function -> Analyzing Query Vector ->Fetch into top k_ids.
 
