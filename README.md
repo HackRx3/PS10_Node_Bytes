@@ -1,10 +1,16 @@
 # Search based Recommendation Engine
-An advanced search based semantic Recommendation System by utilizing frameworks and tech for proper model training and give desired query.
+An advanced search query based Recommendation System built using BERT based sentence_transformer model to recommendations for user input query.
+We implemented semantic search, question answering, summarization and document ranking and correcting spelling error in the search query.
+
+----
 
 ## Objectives
 1. Recommend keywords that are more relevant to user’s search query by **improving accuracy relevence and optimising** the time taken.
 2. Improving the **transactional impact by comparative visualization** of the dataset scraped and the keywords/analytics provided. Then combining the relevant keys for a better output.
 3. Inserting extra features like **input auto-correction, similar searches** etc.
+
+----
+
 ## Tech 
 
 **Stack:** Python, Pandas, Numpy, Faiss, Seaborn, django, HTML, CSS
@@ -12,8 +18,16 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 **Model:** Implementing Bert (Bidirectional Encoder Representations from Transformers) using Sentence Transformers
 
 ## Flowchart
+
+
 <img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/Flowchart%20(3).jpg"/>
+
+----
+
 ## Approach
+
+
+
 1. Crawling the given site and scraping the data through Scrapy.
 
        Scraped Data : (2652,4) 
