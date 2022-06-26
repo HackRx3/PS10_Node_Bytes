@@ -11,8 +11,8 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 
 **Model:** Implementing Bert (Bidirectional Encoder Representations from Transformers) using Sentence Transformers
 
-## Flochart
-https://github.com/HackRx3/PS10_Node_Bytes/blob/master/Flowchart%20(3).jpg
+## Flowchart
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/Flowchart%20(3).jpg"/>
 ## Approach
 1. Crawling the given site and scraping the data through Scrapy.
 
