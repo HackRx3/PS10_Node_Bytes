@@ -1,0 +1,103 @@
+{% extends 'base.html' %}
+{% block title %} Home {% endblock title %}
+
+{% block head %}
+    {%load static%}
+    <link rel="stylesheet" href={%static 'C:\Users\KIIT\Desktop\hello\hello\static\css\index.css'%}>
+    <link rel="stylesheet" href={%static 'C:\Users\KIIT\Desktop\hello\hello\static\images'%}>
+    {% endblock head %}
+
+{% block body %}
+<div class="container mt-6">
+  <div class="container mt-3">
+    <div class="row d-flex justify-content-center">
+     <div class="col-md-9">
+      <div class="card p-4 mt-3">
+        <h1 class="heading mt-3 text-center">Welcome to Node Bytes :)
+       </h1>
+       
+       <div class="d-flex justify-content-center px-5">
+        
+        <div class="search">
+          <form class="form-inline my-2 my-lg-0" method="GET">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" name="q" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+         {% comment %} <input type="text" class="search-input" placeholder="What are you looking for?" name="" /> <i class="bi bi-search"></i> {% endcomment %}
+        </div>
+       </div>
+       <div class="row mt-4"><blink>
+       <h6>Popular Insurances </h6></blink></div>
+       <div class="row mt-1 g-1 px-4 mb-2">
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-travel.jpg" width="80" />
+          <div class="text-center mg-text" ><span class="mg-text"> Travel </span></div>
+         </div>
+        </div>
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-commercial.jpg" width="80" />
+          <div class="text-center mg-text"><span class="mg-text"> Commercial </span></div>
+         </div>
+        </div>
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-motor.jpg" width="80" />
+          <div class="text-center mg-text"><span class="mg-text"> Vehicle </span></div>
+         </div>
+        </div>
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-cyber.jpg" width="80" />
+          <div class="text-center mg-text"><span class="mg-text"> Cyber </span></div>
+         </div>
+        </div>
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-health.jpg" width="80" />
+          <div class="text-center mg-text"><span class="mg-text"> Health </span></div>
+         </div>
+        </div>
+        <div class="col-md-2">
+         <div class="card-inner p-3 d-flex flex-column align-items-center">
+          <img src="https://www.bajajallianz.com/content/dam/bagic/index/home-like-insecure-home.jpg" width="80" />
+          <div class="text-center mg-text"><span class="mg-text"> Home </span></div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ 
+
+
+
+
+
+
+  
+     
+{% endblock body %}
+
+{% comment %} Footer {% endcomment %}
+
+			<div class="footer-left">
+
+				<p class="footer-links">
+					
+
+					<a href="''">Home</a>
+
+					<a href="C:\Users\KIIT\Desktop\Django\hello\templates\help.html">Help</a>
+
+					<a href="C:\Users\KIIT\Desktop\Django\hello\templates\about.html">About</a>
+
+				</p>
+
+				<p>Node Bytes</p>
+			</div>
+
+		</footer>
