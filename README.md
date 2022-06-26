@@ -53,3 +53,7 @@ We implemented semantic search, question answering, summarization and document r
      c) Writing Search function -> Analyzing Query Vector ->Fetch into top k_ids.
 
 <img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/Prototype.jpeg"/>
+
+
+##UI Sample
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/ui%20sample%202.png"/>
