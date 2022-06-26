@@ -10,8 +10,10 @@ We implemented semantic search, question answering, summarization and document r
 3. Inserting extra features like **input auto-correction, similar searches** etc.
 
 ----
-##Website
+##Website sample 1
 <img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/ui%20sample%202.png"/>
+##Website sample 2
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/UI%20Sample.png"/>
 
 ## Tech 
 
