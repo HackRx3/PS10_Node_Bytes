@@ -9,11 +9,11 @@ We implemented semantic search, question answering, summarization and document r
 2. Improving the **transactional impact by comparative visualization** of the dataset scraped and the keywords/analytics provided. Then combining the relevant keys for a better output.
 3. Inserting extra features like **input auto-correction, similar searches** etc.
 
-----
-##Website sample 1
+
+## Website sample 
 <img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/ui%20sample%202.png"/>
-##Website sample 2
-<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/UI%20Sample.png"/>
+
+----
 
 ## Tech 
 
