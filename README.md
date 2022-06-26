@@ -38,3 +38,4 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 
      c) Writing Search function -> Analyzing Query Vector ->Fetch into top k_ids.
 
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/Prototype.jpeg"/>
