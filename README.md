@@ -22,7 +22,14 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 <img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/plot.jpeg" />
 
 2. Pre-processing the scraped data along with keywords provided and then calculating frequency weightage i.e. finding most searched.
-3. **Implementing SBert model leading to :**
+
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/datahead.jpg" />
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/plot.jpeg" />
+
+4. **Implementing SBert model leading to :**
+
+
+
 
      a) Semantic Search (eg. insurance -> vehicle).
 
