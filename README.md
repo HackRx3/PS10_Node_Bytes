@@ -7,19 +7,21 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
 3. Inserting extra features like **input auto-correction, similar searches** etc.
 ## Tech 
 
-**Stack:** Python, Pandas, Numpy, Faiss, Seaborn, HTML, CSS
+**Stack:** Python, Pandas, Numpy, Faiss, Seaborn, django, HTML, CSS
 
-**Model:** Bert (Bidirectional Encoder Representations from Transformers)
+**Model:** Implementing Bert (Bidirectional Encoder Representations from Transformers) using Sentence Transformers
 
 
 ## Approach
 1. Crawling the given site and scraping the data through Scrapy.
 
        Scraped Data : (2652,4) 
+       
+![data](https://drive.google.com/drive/folders/1vAdh2q1jSxcFUtoNhqZAF-y4yZZ3zczb)
+![data](https://drive.google.com/drive/folders/1vAdh2q1jSxcFUtoNhqZAF-y4yZZ3zczb)
 
-
-2. Pre-processing the scraped data along with keywords provided and then calculating frequency i.e. finding most searched.
-3. **Implementing S Bert model leading to :**
+2. Pre-processing the scraped data along with keywords provided and then calculating frequency weightage i.e. finding most searched.
+3. **Implementing SBert model leading to :**
 
      a) Semantic Search (eg. insurance -> vehicle).
 
