@@ -18,8 +18,8 @@ An advanced search based semantic Recommendation System by utilizing frameworks 
        Scraped Data : (2652,4) 
        
 
-<img src="https://drive.google.com/drive/folders/1vAdh2q1jSxcFUtoNhqZAF-y4yZZ3zczb.jpg" />
-<img src="https://drive.google.com/drive/folders/1vAdh2q1jSxcFUtoNhqZAF-y4yZZ3zczb.jpg" />
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/data.jpeg" />
+<img src="https://github.com/HackRx3/PS10_Node_Bytes/blob/master/plot.jpeg" />
 
 2. Pre-processing the scraped data along with keywords provided and then calculating frequency weightage i.e. finding most searched.
 3. **Implementing SBert model leading to :**
